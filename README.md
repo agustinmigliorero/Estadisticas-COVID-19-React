@@ -1,7 +1,7 @@
 ## Pagina hecha con React. 
 
 ## Para iniciar la app primero ejecutar en la consola de comandos 
-`npm install` para instalar los paquetes y librerias.
+## `npm install` para instalar los paquetes y librerias.
 
 ## Luego ejecutar `npm start` para iniciar el servidor local.
 
